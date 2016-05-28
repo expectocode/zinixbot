@@ -1,5 +1,5 @@
 # zinixbot_tg
-Telegram counterpart to the IRC bot I made
+Telegram counterpart to the IRC bot made by Alex
 
 # Commands:
 
